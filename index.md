@@ -19,7 +19,7 @@ Supported arguments:
     - email
 -->
 
-{% include cv-contact.html %}
+<!-- {% include cv-contact.html %}
 
 ## 教育背景
 
@@ -74,7 +74,7 @@ Supported arguments:
 - 2019 年 中国大学生计算机设计大赛大数据类**全国三等奖**
 - 2019 年 广西大学生计算机设计大赛**二等奖**
 - 2018 年 全国大学生数学竞赛**三等奖**
-- 2018 年 校级 “三好” 学生
+- 2018 年 校级 “三好” 学生 -->
 
 ## 自我评价
 
