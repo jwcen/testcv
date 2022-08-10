@@ -157,7 +157,7 @@ h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
   /* font-size: 50pt; */
-  font-size: 600%;
+  font-size: 180%; /*600*/
   font-weight: lighter;
   position: relative;
   line-height: 1.2em;
@@ -173,8 +173,8 @@ h1 strong {
 /* Section headers */
 h2 {
   font-family: "Avenir Next", sans-serif;
-  /* font-size: 20pt; */
-  font-size: 200%;
+  font-size: 17pt;
+/*   font-size: 200%; */
   text-align: center;
   font-weight: normal;
   display: flex;
@@ -196,14 +196,15 @@ h3 strong {
 }
 
 h3 {
-  margin-top: 10px;
+  margin-top: 1px;  /*10*/
+  font-size: 16pt; /* new add */
 }
 
-code {
+/* code {
   font-family: "Palatino";
   font-style: italic;
   float: right;
-}
+} */
 
 li:before {
   content: "-";
@@ -215,6 +216,8 @@ li {
   /*second line indent*/
   padding-left: 2.25em;
   text-indent: -1.25em;
+  /*new add */
+  font-size: 15px;
   /*color: #777;*/
 }
 
